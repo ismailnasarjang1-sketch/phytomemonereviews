@@ -1,0 +1,5 @@
+# Phytomem One Reviews
+User-agent: *
+Allow: /
+
+Sitemap: https://phytomemonereviews.vercel.app/sitemap.xml

@@ -1,0 +1,12 @@
+# Phytomem One Reviews
+
+> Independent review of Phytomem One, a brain-health dietary supplement: ingredients, pricing, 60-day guarantee, safety notes and an honest verdict. Buttons are affiliate links. No invented ratings or testimonials.
+
+## Pages
+- [Phytomem One Reviews](https://phytomemonereviews.vercel.app/): main review, pricing, FAQ
+- [Phytomem One Ingredients](https://phytomemonereviews.vercel.app/phytomem-one-ingredients.html)
+- [Side Effects & Safety](https://phytomemonereviews.vercel.app/phytomem-one-side-effects.html)
+- [Affiliate & Editorial Disclosure](https://phytomemonereviews.vercel.app/disclosure.html)
+
+## Source
+- [Vendor sales page](https://getphytomemone.com/)
